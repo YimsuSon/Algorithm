@@ -1,3 +1,15 @@
+/*
+
+Select minimum data and swap with data in the beginning of list
+
+
+///
+
+7,3,9,0,1,2,6,5,4,8
+
+*/
+
+
 package Sort;
 
 

@@ -1,4 +1,16 @@
+/*
+
+Insert data to proper portion after checking datas from beginning of list.
+
+///
+
+7,3,9,0,1,2,6,5,4,8
+
+*/
+
+
 package Sort;
+
 public class InsertionSort {
    public static void main(String[] args ){
         int n = 10;

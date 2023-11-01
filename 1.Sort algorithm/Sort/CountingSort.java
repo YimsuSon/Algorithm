@@ -1,3 +1,14 @@
+/*
+
+Count the number of data which has specific value.
+
+///
+
+7, 5, 9, 0, 3, 1, 6, 2, 9, 1, 4, 8, 0, 5, 2
+
+*/
+
+
 package Sort;
 
 public class CountingSort {

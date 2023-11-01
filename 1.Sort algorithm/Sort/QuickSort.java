@@ -1,3 +1,13 @@
+/*
+
+Set the pivot and swap data which is greater than pivot with data which is lesser than pivot.
+
+///
+
+7,3,9,0,1,2,6,5,4,8
+
+*/
+
 package Sort;
 
 public class QuickSort {
